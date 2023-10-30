@@ -1,0 +1,14 @@
+
+body {
+    background-image:url(https://4kontynenty.pl/wp-content/uploads/2020/02/pexels-photo-1482193.jpeg);
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+p {
+    Font-size: 300%;
+    font-family: monospace;
+    color:rgb(138, 5, 0)
+    
+}
